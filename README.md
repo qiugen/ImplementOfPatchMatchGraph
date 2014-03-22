@@ -60,8 +60,11 @@ Result_matix
 Command: run demo
 
 Output:
-class_1 has number:38, error: 1, the accuracy rate: 0.97368
-class_2 has number:31, error: 0, the accuracy rate: 1
-class_3 has number:30, error: 1, the accuracy rate: 0.96667
-class_4 has number:30, error: 0, the accuracy rate: 1
-class_5 has number:36, error: 2, the accuracy rate: 0.94444
+
+
+* class_1 has number:38, error: 1, the accuracy rate: 0.97368
+* class_2 has number:31, error: 0, the accuracy rate: 1
+* class_3 has number:30, error: 1, the accuracy rate: 0.96667
+* class_4 has number:30, error: 0, the accuracy rate: 1
+* class_5 has number:36, error: 2, the accuracy rate: 0.94444
+
